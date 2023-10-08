@@ -1,1 +1,27 @@
-L'obiettivo di questo progetto è fornire una traduzione accurata e completa del gioco al fine di rendere l'esperienza di gioco più accessibile e godibile per i giocatori italiani. Se sei un appassionato del gioco e hai una buona conoscenza dell'italiano e dell'inglese, sei il benvenuto a contribuire!
+Installazione
+
+Per installare la mod di traduzione italiana, segui i passaggi elencati di seguito:
+
+    Creazione Cartella ~mods
+        Crea una cartella chiamata ~mods sul tuo computer. Puoi creare questa cartella in qualsiasi posizione che preferisci.
+
+    Inserimento del File ITA_P.pak
+        Copia il file ITA_P.pak nella cartella ~mods che hai appena creato.
+
+    Copiatura della Cartella mod
+        Ora copia l'intera cartella mod che si trova all'interno della cartella ~mods.
+
+    Incolla nella Cartella del Gioco
+        Incolla la cartella mod copiata nella seguente directory del gioco SengokuDynasty:
+
+    css
+
+    SengokuDynasty\Content\Paks
+
+    Assicurati che il percorso sia corretto e che la cartella mod sia stata copiata correttamente all'interno della cartella Paks.
+
+    Selezione della Lingua
+        Avvia il gioco SengokuDynasty. Dal menu principale, vai alle impostazioni del gioco e seleziona 'Italiano' come lingua.
+
+Dopo aver completato questi passaggi, la mod di traduzione italiana dovrebbe essere installata correttamente e pronta per essere utilizzata nel gioco SengokuDynasty.
+Buon divertimento con SengokuDynasty in italiano!
