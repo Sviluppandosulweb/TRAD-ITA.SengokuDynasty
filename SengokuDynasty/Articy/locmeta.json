@@ -1,0 +1,20 @@
+{
+    "locmeta_version": 1,
+    "locres_version": 3,
+    "resource_name": "Articy",
+    "main_language": "en",
+    "local_languages": [
+        "it",
+        "de",
+        "es",
+        "fr",
+        "ja",
+        "ko",
+        "pl",
+        "pt",
+        "ru",
+        "tr",
+        "uk",
+        "zh"
+    ]
+}
